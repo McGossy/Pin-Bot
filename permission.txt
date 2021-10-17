@@ -1,0 +1,8 @@
+34359813184
+bot_link = https://discord.com/api/oauth2/authorize?client_id=898399169998372915&permissions=34359749696&scope=bot
+description:
+This bot will auto pin attachments. It only looks for new messages, it doesn't go through history.
+`!pin start` to get it to start detecting attachments to pin in a channel. `!pin stop` to get it to stop.
+Goal was for stuff like art or meme channels to auto pin so that people can scroll through pins & skip discussion.
+Only users with permissions to manage messages can use the bot.
+https://discord.com/api/oauth2/authorize?client_id=898399169998372915&permissions=34359749696&scope=bot
